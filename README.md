@@ -1,2 +1,3 @@
 # ping-pong
-pygame module
+pygame module pip install pygae
+
